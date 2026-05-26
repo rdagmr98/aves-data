@@ -15,7 +15,9 @@
     "updated_at": "2024-01-01T00:00:00.000Z",
     "email": null,
     "is_approved_maint": true,
-    "is_approved_crew": false
+    "is_approved_crew": false,
+    "is_ti": false,
+    "is_etp": false
   },
   {
     "id": "admin_crew_001",
@@ -33,7 +35,9 @@
     "updated_at": "2024-01-01T00:00:00.000Z",
     "email": null,
     "is_approved_maint": false,
-    "is_approved_crew": true
+    "is_approved_crew": true,
+    "is_ti": false,
+    "is_etp": false
   },
   {
     "id": "df0017581d098e14",
@@ -52,7 +56,9 @@
     "approved_by": "admin_priv_001",
     "email": null,
     "is_approved_maint": true,
-    "is_approved_crew": true
+    "is_approved_crew": true,
+    "is_ti": false,
+    "is_etp": false
   },
   {
     "id": "76cd48879c246a18",
@@ -71,7 +77,9 @@
     "approved_by": "admin_priv_001",
     "email": null,
     "is_approved_maint": true,
-    "is_approved_crew": true
+    "is_approved_crew": true,
+    "is_ti": false,
+    "is_etp": false
   },
   {
     "id": "29a544d727938aeb",
@@ -90,7 +98,9 @@
     "approved_by": "admin_priv_001",
     "email": null,
     "is_approved_maint": true,
-    "is_approved_crew": true
+    "is_approved_crew": true,
+    "is_ti": false,
+    "is_etp": false
   },
   {
     "id": "f8ec27b015192ed2",
@@ -109,6 +119,8 @@
     "approved_by": "admin_priv_001",
     "email": null,
     "is_approved_maint": true,
-    "is_approved_crew": false
+    "is_approved_crew": false,
+    "is_ti": false,
+    "is_etp": false
   }
 ]
