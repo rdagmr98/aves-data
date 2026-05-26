@@ -13,7 +13,9 @@
     "note": null,
     "created_at": "2024-01-01T00:00:00.000Z",
     "updated_at": "2024-01-01T00:00:00.000Z",
-    "email": null
+    "email": null,
+    "is_approved_maint": true,
+    "is_approved_crew": false
   },
   {
     "id": "admin_crew_001",
@@ -29,7 +31,9 @@
     "note": null,
     "created_at": "2024-01-01T00:00:00.000Z",
     "updated_at": "2024-01-01T00:00:00.000Z",
-    "email": null
+    "email": null,
+    "is_approved_maint": false,
+    "is_approved_crew": true
   },
   {
     "id": "df0017581d098e14",
@@ -46,7 +50,9 @@
     "created_at": "2026-05-23T12:12:27.091",
     "updated_at": "2026-05-25T19:40:28.052",
     "approved_by": "admin_priv_001",
-    "email": null
+    "email": null,
+    "is_approved_maint": true,
+    "is_approved_crew": true
   },
   {
     "id": "76cd48879c246a18",
@@ -63,7 +69,9 @@
     "created_at": "2026-05-24T10:03:58.959",
     "updated_at": "2026-05-24T11:53:54.413",
     "approved_by": "admin_priv_001",
-    "email": null
+    "email": null,
+    "is_approved_maint": true,
+    "is_approved_crew": true
   },
   {
     "id": "29a544d727938aeb",
@@ -80,7 +88,9 @@
     "created_at": "2026-05-25T14:53:52.356",
     "updated_at": "2026-05-25T15:01:35.160",
     "approved_by": "admin_priv_001",
-    "email": null
+    "email": null,
+    "is_approved_maint": true,
+    "is_approved_crew": true
   },
   {
     "id": "f8ec27b015192ed2",
@@ -97,6 +107,8 @@
     "created_at": "2026-05-25T14:56:55.232",
     "updated_at": "2026-05-25T15:00:56.738",
     "approved_by": "admin_priv_001",
-    "email": null
+    "email": null,
+    "is_approved_maint": true,
+    "is_approved_crew": false
   }
 ]
