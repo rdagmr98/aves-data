@@ -104,11 +104,11 @@
     "id": 11,
     "criteria_type": "MDB_POLIGONO",
     "tob_capability_id": null,
-    "period_days": 365,
+    "period_days": 1095,
     "period_days_a": null,
     "period_days_bc": null,
     "min_hours": null,
     "min_count": 1,
-    "description": "1 attività a fuoco (poligono) MDB ogni 12 mesi"
+    "description": "1 attività a fuoco (poligono) MDB ogni 3 anni (ogni 2 anni per istruttori)"
   }
 ]
